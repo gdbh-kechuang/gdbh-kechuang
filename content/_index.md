@@ -1,17 +1,16 @@
 ---
-title: My Site
+title: ''
 toc: false
 ---
 
-This is the landing page.
+# 欢迎来到 桂电北海科创档案库
 
-## Explore
+
+##
+
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="知识" icon="book-open" >}}
+  {{< card link="archives" title="存档" icon="archive" >}}
+  {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).

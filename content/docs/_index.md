@@ -1,18 +1,11 @@
 ---
-title: Documentation
-next: first-page
+title: '知识'
+prev: /
+next: /docs/intro/
 ---
 
-This is a demo of the theme's documentation layout.
+实验室成员学习过程中总结的知识，供各位参考学习。
 
-## Hello, World!
+## 路线图
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+<iframe src="https://roadmap.sh/r/embed?id=6715e922791f57dd60367851" width="100%" height="500px" frameBorder="0"></iframe>
